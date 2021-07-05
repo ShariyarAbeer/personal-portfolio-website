@@ -118,7 +118,7 @@ a:hover {
 #service {
   font-family: "Lato", sans-serif;
   font-size: 2em;
-  font-weight: 800;
+  font-weight: 700;
   color: rgb(116, 71, 153);
 }
 
@@ -181,6 +181,76 @@ a:hover {
   font-size: 0.8em;
   line-height: 2.3em;
   font-family: "Lato", sans-serif;
+}
+
+.work-img img {
+  height: 350px;
+  width: 100%;
+
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px grey;
+}
+.single-work-img img {
+  border-radius: 5px;
+  box-shadow: 10px 10px 40px grey;
+
+  margin: 20px 5px 5px 10px;
+}
+.button-work {
+  height: 100px;
+  margin-top: 30px;
+}
+.info-work {
+  font-family: "Lato", sans-serif;
+  font-size: 2em;
+  font-weight: 700;
+  color: rgb(116, 71, 153);
+}
+
+.contact-back {
+  margin-top: 15%;
+  margin-bottom: 5%;
+}
+
+.contact {
+  margin: 0 auto;
+  width: 60%;
+  margin-left: 15%;
+}
+.contact-text {
+  width: 50%;
+  margin-right: 30px;
+}
+.contact-input {
+  width: 50%;
+  margin-right: 30px;
+}
+.contact-two {
+  margin: 0 auto;
+  width: 60%;
+  padding-top: 5%;
+  margin-left: 15%;
+}
+
+.send-text {
+  margin: 0 auto;
+  width: 50%;
+}
+
+.need-margin {
+  margin-left: 3%;
+}
+.send-text input {
+  width: 100%;
+  margin-top: 40px;
+  height: 100px;
+  margin-right: 40px;
+  padding: 5px;
+}
+
+.text-border {
+  border: 1px solid rgb(165, 165, 165);
+  border-radius: 5px;
 }
 
 footer {
